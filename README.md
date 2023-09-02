@@ -1,7 +1,7 @@
 ## 👋 Hey there!
 
 - I am a **Professional**  software engineer
-- Since 1 years I have been building and creating new projects, my biggest one being [Reedroux-bot](https://green-bot.app)
+- Since 1 years I have been building and creating new projects, my biggest one being [Reedroux-bot](https://reedrouxmusic.vercel.app/)
 - Thanks to my experience in the various projects i've worked in I acknoweldged a certain level in the following subjects: NodeJs, PHP (Object oriented & basic ), Javascript ( and TS ), HTML & CSS, nextjs, java, C, design, marketing
 
 ## Do you need anything?
