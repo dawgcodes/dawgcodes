@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm David Ian Black</h1>
+<h1 align="center">Hello!</h1>
 <h3 align="center">A Full Stack Developer</h3>
 
 - 🔭 I’m currently working on [Reedroux](https://github.com/Reedroux) [Uivar](https://discord.com/oauth2/authorize?client_id=1110615422191022243&scope=bot&permissions=6496045848) [Audiomack](https://discord.com/api/oauth2/authorize?client_id=1068643962782502962&permissions=141770909952&scope=bot) [County](https://county-bot.vercel.app/) [GiveawayBot](https://giveaways.zozo82897.lol/) and even more projects
