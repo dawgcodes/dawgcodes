@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **nodejs and reactjs**
 
-- 📫 How to reach me **reedrouxmusic@gmx.net**
+- 📫 How to reach me **contact@reedroux.biz**
 
 
 ## Some Projects
