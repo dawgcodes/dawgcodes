@@ -10,6 +10,9 @@ Website [https://twodawg.xyz](https://twodawg.xyz)
   <a href="https://twitter.com/vyrisst">
     <img src="https://twodawg.xyz/twitter.png" width="48"></img>
   </a>
+  <a href="https://discord.com/users/135132310260416512">
+    <img src="https://twodawg.xyz/discord.jpeg" width="48"></img>
+  </a>
 </span>
 
 ![](https://komarev.com/ghpvc/?username=dawgcodes)
