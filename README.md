@@ -1,18 +1,19 @@
 ## Hello!
 ... And welcome to my GitHub profile!
 
-Take a good look around, there's a lot to explore. However there's some great stuff I've worked at!
+I'm **David Ian Black**, a self-taught Developer (obviously with the help of various online communities)
 
-Website [https://twodawg.xyz](https://twodawg.xyz)
+I know a few programming languages but I only **code in TypeScript** cuz why not
 
-### Find me here
-<span>
-  <a href="https://twitter.com/vyrisst">
-    <img src="https://twodawg.xyz/twitter.png" width="48"></img>
-  </a>
-  <a href="https://discord.com/users/135132310260416512">
-    <img src="https://twodawg.xyz/discord.jpeg" width="48"></img>
-  </a>
-</span>
+I'm better at **backend** compared to I'm at frontend but I can do full stack since I'm already doing it, all **with TypeScript**
+
+I'm currently working on [Reedroux Bot](https://reedroux.biz/) ⛵, an **advanced Discord giveaway bot** developed and owned by me, **used by** over **10,000+ servers**!
+
+#### Contact Me:
+
+-   Discord - `@twodawg` (Friend Requests closed, you need to share a server with me to be able to DM me, you can join [this server](https://https://reedroux.biz/support) if you don't share any)
+-   Email - [`david.i.b@reedroux.biz`](mailto:david.i.b@reedroux.biz)
+-   Twitter - [`AwesomeStickz`](https://twitter.com/AwesomeStickz)
+
 
 ![](https://komarev.com/ghpvc/?username=dawgcodes)
