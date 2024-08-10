@@ -7,7 +7,7 @@ I know a few programming languages but I only **code in TypeScript** cuz why not
 
 I'm better at **backend** compared to I'm at frontend but I can do full stack since I'm already doing it, all **with TypeScript**
 
-I'm currently working on [Reedroux Bot](https://reedroux.biz/), an **advanced Discord giveaway bot** developed and owned by me, **used by** over **10,000+ servers**!
+I'm currently working on [Reedroux Bot](https://reedroux.biz/), an **advanced Discord music bot** developed and owned by me, **used by** over **10,000+ servers**!
 
 #### Contact Me:
 
