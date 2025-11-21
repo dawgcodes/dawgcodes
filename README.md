@@ -12,7 +12,7 @@ I'm currently working on [Reedroux Bot](https://reedroux.biz/), an **advanced Di
 #### Contact Me:
 
 -   Discord - `@twodawg` (Friend Requests closed, you need to share a server with me to be able to DM me, you can join [this server](https://https://reedroux.biz/support) if you don't share any)
--   Email - [`david@dibx.me`](mailto:david@dibx.me)
+-   Email - [`dawgcodes@reedroux-bot.xyz`](mailto:dawgcodes@reedroux-bot.xyz)
 -   Twitter - [`VyrissT`](https://twitter.com/VyrissT)
 
 
