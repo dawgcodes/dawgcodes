@@ -1,13 +1,6 @@
-## Hello!
-... And welcome to my GitHub profile!
+### Hey 👋
 
-I'm **David Ian Black**, a self-taught Developer (obviously with the help of various online communities)
-
-I know a few programming languages but I only **code in TypeScript** cuz why not
-
-I'm better at **backend** compared to I'm at frontend but I can do full stack since I'm already doing it, all **with TypeScript**
-
-I'm currently working on [Reedroux Bot](https://reedroux.biz/), an **advanced Discord music bot** developed and owned by me, **used by** over **10,000+ servers**!
+Hi, I'm David! I'm CTO and Co-Founder of [Reedroux-Bot](https://reedroux-bot.xyz/). I'm a self-taught software engineer and am excited to be working towards the future of online gaming. I'm also extremely passionate about web performance and security.
 
 #### Contact Me:
 
